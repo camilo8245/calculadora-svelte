@@ -46,7 +46,7 @@
 </script>
 
 <main>
-  <h1>CALCULADORA</h1>
+  <h1>CALCULADORA MACKIA</h1>
 
   <select bind:value={eleccion}>
     <option value="0" >Seleccione una operacion</option>
